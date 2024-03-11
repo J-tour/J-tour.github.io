@@ -1,2 +1,2 @@
-# J-tour.github.io
+# J-tour
 J-tour.de jietour-beauyean guanfang-woangjanq
