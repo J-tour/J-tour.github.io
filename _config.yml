@@ -1,0 +1,15 @@
+theme: minima
+header_pages:
+  - about.md
+  - porfolio.md
+
+minima:
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+  date_format: "%Y/%m/%d (%a)"
+#theme skin
+  skin: solarized
+
+disqus:
+#comments url https://example.com must be included
+  shortname: j-tour
